@@ -10,6 +10,6 @@ Monthly Trends — Ride volume peaks toward October and November, suggesting bus
 Trip Duration — Most trips are completed in under 30 minutes, confirming the account is used primarily for short, local journeys. A small number of long-distance trips skew the distribution to the right.<br>
 Hour of Day — Trip activity is almost non-existent in the early morning hours. It picks up sharply at 08:00, peaks at 17:00 with 40 trips, and tapers off after 20:00 — a clear 9-to-5 business pattern.<br>
 🛠️ Libraries Used<br>
-pandas | matplotlib | seaborn
-<br>💡 Conclusion<br>
-<br>This dataset tells the story of a corporate travel account with predictable, work-driven patterns. The analysis provides clear insights into when, why, and how far trips are taken.
+pandas | matplotlib | seaborn <br>
+💡 Conclusion<br>
+This dataset tells the story of a corporate travel account with predictable, work-driven patterns. The analysis provides clear insights into when, why, and how far trips are taken.
