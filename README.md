@@ -2,7 +2,7 @@
 Uber Trip Data Analysis - This project performs Exploratory Data Analysis (EDA) on an Uber trip dataset containing 1,156 rides. The goal is to uncover patterns in trip behaviour, timing, purpose, and distance using Python's data visualisation libraries.
 <br><br>
 - Dataset <br>
-The dataset includes 7 features: trip start and end datetime, category (Business/Personal), start and stop locations, miles travelled, and trip purpose.<br>
+The dataset includes 7 features: trip start and end datetime, category (Business/Personal), start and stop locations, miles travelled, and trip purpose.<br><br><br>
 📊 Visualisations & Findings<br>
 Category & Purpose — The account is overwhelmingly used for business travel. Meetings and Meal/Entertainment are the most frequent trip purposes, while personal use is minimal.<br>
 Day-Night Distribution — Afternoon (34.3%) and Evening (33.1%) are the busiest periods, together accounting for over 67% of all trips. Morning sees the least activity at just 15.2%.<br>
