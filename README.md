@@ -1,5 +1,6 @@
 # Processing-and-visualizing-uber-data-
 Uber Trip Data Analysis - This project performs Exploratory Data Analysis (EDA) on an Uber trip dataset containing 1,156 rides. The goal is to uncover patterns in trip behaviour, timing, purpose, and distance using Python's data visualisation libraries.
+<br>
 📦 Dataset
 The dataset includes 7 features: trip start and end datetime, category (Business/Personal), start and stop locations, miles travelled, and trip purpose.
 📊 Visualisations & Findings
